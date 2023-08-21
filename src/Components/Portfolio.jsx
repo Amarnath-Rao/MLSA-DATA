@@ -19,9 +19,9 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+import image from "../images/mark3.jpg";
 
-const imageAltText = "desktop with books and laptop";
+const imageAltText = "universe";
 
 /**
  * Project list
@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Voucherize",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "Decentrailized application that allows users to create, manage, and redeem vouchers. Built with React, Solidity, and Hardhat.",
+    url: "https://github.com/Amarnath-Rao/Voucherize",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Social Media App Prototype",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      " Prototype for social media using MERN stack and GraphQL. Includes authentication, CRUD operations, and real-time updates.",
+    url: "https://github.com/Amarnath-Rao/Social-Media-App-Prototype",
   },
   {
-    title: "My Resume Site",
+    title: "NutriCheck",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "NutriCheck is a comprehensive health platform that integrates with popular health apps. It offers three key features: KCalc for food tracking and Google Fit integration, WeatherBite for personalized food recommendations based on location and health conditions, and VitalScan for storing and visualizing health reports.",
+    url: "https://github.com/Amarnath-Rao/NutriCheck",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Face Detection & Age, Gender using Python, ML and Opencv",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "This is a simple implementation of Face Detection and Age using Python, ML and OpenCV. ",
+    url: "https://github.com/Amarnath-Rao/FaceDetection-Age-Gender_PythonML",
   },
 ];
 
